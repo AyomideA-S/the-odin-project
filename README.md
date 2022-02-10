@@ -1,2 +1,2 @@
 # the-odin-project
-Collection of repositories based on The Odin Project's curriculum.
+This is basically a collection of all my project based on The Odin Project curriculum.
